@@ -30,4 +30,25 @@
 // var oneLine=future+will;
 // console.log(oneLine)
 
-var mySisterGiveMoney=119;
+// var mySisterGiveMoney=119;
+// var division=5;
+
+// var remainder=mySisterGiveMoney %division;
+// console.log(remainder)
+
+// var fruits=['banna','oranage', 'mango']
+// fruits.pop()
+// fruits.push('watermelon')
+
+// console.log(fruits)
+// var getF=fruits.indexOf('oranage')
+// console.log(getF)
+
+var rabbani=77;
+var tom=85;
+var jone=66;
+var pettar=75;
+if(rabbani > 85){
+    console.log('your grade A+')
+}
+else if(tom )
